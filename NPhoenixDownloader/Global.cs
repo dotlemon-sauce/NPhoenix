@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace NPhoenixDownloader
 {
-  public static class Global
-  {
-    public static NPhoenix NPhoenix { get; set; }
-  }
+    public static class Global
+    {
+        public static NPhoenix NPhoenix { get; set; }
+
+        public string Test { get; set; }
+    }
 }
