@@ -11,6 +11,6 @@ namespace NPhoenixDownloader
     {
         public static NPhoenix NPhoenix { get; set; }
 
-        public string Test { get; set; }
+        public static string Test { get; set; }
     }
 }
